@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BBAE354E-0AA4-3FE8-8A61-306BF07C8490}") = "Arduino-MoCap", "Assembly-CSharp.csproj", "{62328938-B581-986A-772E-126DA952F44F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62328938-B581-986A-772E-126DA952F44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62328938-B581-986A-772E-126DA952F44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62328938-B581-986A-772E-126DA952F44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62328938-B581-986A-772E-126DA952F44F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
